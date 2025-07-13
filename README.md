@@ -33,7 +33,7 @@ But if you insist on keeping it here, use indentation:
     ├── app.py                    # FastAPI app with /predict route
     ├── stacking_model.pkl        # Trained ensemble model (after training)
     ├── label_encoder.pkl         # Label encoder for target class decoding
-    └── personality_dataset.csv   # Your raw dataset (not included in repo)
+    └── personality_dataset.csv   # Raw dataset
 
 ---
 
