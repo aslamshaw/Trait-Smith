@@ -1,0 +1,7 @@
+fastapi
+scikit-learn
+pandas
+numpy
+xgboost
+category_encoders
+uvicorn
